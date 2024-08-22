@@ -3,7 +3,7 @@ import Hero from '../../components/Hero/Hero'
 import Featured from '../../components/Featured/Featured'
 
 import Collection from '../../components/Collection/Collection'
-import Stayhome from '../../components/Stayhome/Stayhome'
+import Stayhome from '../../components/Stayhome/Stayhome.jsx'
 
 const Home = () => {
     return (
