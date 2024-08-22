@@ -1,9 +1,8 @@
 import React from 'react'
 import Hero from '../../components/Hero/Hero'
 import Featured from '../../components/Featured/Featured'
-
-import Collection from '../../components/Collection/Collection'
 import Stayhome from '../../components/Stayhome/Stayhome.jsx'
+import Collection from '../../components/Collection/Collection'
 
 const Home = () => {
     return (
